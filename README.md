@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App Preview
+
+You can checkout the app here (https://infallible-montalcini-5158c6.netlify.app/)
+
 
 ## Project Setup steps
 
